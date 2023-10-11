@@ -1,0 +1,36 @@
+body {
+    background-color: green;
+    font-family: Arial, Helvetica, sans-serif;
+    background-image: url("background.jpg");
+    background-size: cover;
+    color: white;
+    margin: 0;
+    padding: 0;
+    display: block;
+    text-align: center;
+    font-weight: bold;
+}
+
+h1{
+    color : goldenrod; 
+    font-size: 50px;
+   
+   
+}
+
+#message-el{
+    font-style: italic;
+    font-size: 20px;
+    
+}
+
+#button-el{
+
+    background-color: goldenrod;
+    font-weight: bold;
+    color: green;
+    size : 50px;
+    padding: 10px;
+    
+
+}

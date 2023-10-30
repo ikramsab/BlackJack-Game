@@ -7,7 +7,7 @@ let isAlive=true
 let messStr=""
 let sum = firstCard+secondCard
 let messageEl = document.getElementById("message-el")
-let sumEl =document.getElementById("sum-el")
+let sumEl =document.querySelector("#sum-el")
 
 
 function startGame(){
